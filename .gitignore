@@ -2,3 +2,15 @@
 .venv/
 *.pyc
 *.pyo
+.ipynb_checkpoints/
+__pycache__/
+*.swp
+*.log
+*.out
+*.pid
+*.pid.lock
+*.lock
+*.sock
+*.sqlite3
+*.db
+*.pdf

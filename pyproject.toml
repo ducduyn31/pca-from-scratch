@@ -9,6 +9,12 @@ readme = "README.md"
 python = "^3.10"
 numpy = "^2.1.1"
 scikit-learn = "^1.5.2"
+notebook = "^7.2.2"
+plotly = "^5.24.1"
+pandas = "^2.2.3"
+matplotlib = "^3.9.2"
+nbconvert = {extras = ["webpdf"], version = "^7.16.4"}
+notebook-as-pdf = "^0.5.0"
 
 
 [build-system]
